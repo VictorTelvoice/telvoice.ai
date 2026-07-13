@@ -1,0 +1,13 @@
+{
+  "name": "telvoice-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tests/validate.mjs",
+    "test": "node tests/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
