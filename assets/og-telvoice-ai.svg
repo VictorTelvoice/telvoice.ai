@@ -30,8 +30,8 @@
   <rect width="1200" height="630" fill="url(#grid)"/>
   <g transform="translate(70 48)">
     <circle cx="26" cy="26" r="18" fill="none" stroke="url(#ring)" stroke-width="4"/>
-    <text x="58" y="35" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Telvoice</text>
-    <text x="166" y="35" fill="#0052CC" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">AI</text>
+    <text x="58" y="35" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="-.55">Telvoice</text>
+    <text x="162" y="35" fill="#45E7FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="-.55">AI</text>
   </g>
   <text x="70" y="228" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">Implementamos</text>
   <text x="70" y="315" fill="url(#headline)" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">inteligencia artificial</text>
@@ -42,6 +42,6 @@
   <g>
     <circle cx="975" cy="320" r="154" fill="#2C5FFF" fill-opacity=".08"/>
     <circle cx="975" cy="320" r="142" fill="none" stroke="url(#ring)" stroke-width="8"/>
-    <text x="917" y="348" fill="#0052CC" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-5">AI</text>
+    <text x="917" y="348" fill="#45E7FF" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="650" letter-spacing="-4">AI</text>
   </g>
 </svg>
