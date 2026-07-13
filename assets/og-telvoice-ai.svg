@@ -11,7 +11,7 @@
       <stop offset="1" stop-color="#20B9FF" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="ring" x1="850" y1="170" x2="1110" y2="465" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4BE8FF"/>
+      <stop stop-color="#45E7FF"/>
       <stop offset=".5" stop-color="#347BFF"/>
       <stop offset="1" stop-color="#A05CFF"/>
     </linearGradient>
@@ -30,8 +30,8 @@
   <rect width="1200" height="630" fill="url(#grid)"/>
   <g transform="translate(70 48)">
     <circle cx="26" cy="26" r="18" fill="none" stroke="url(#ring)" stroke-width="4"/>
-    <circle cx="26" cy="8" r="2.5" fill="#67E7FF"/>
-    <text x="58" y="35" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Telvoice AI</text>
+    <text x="58" y="35" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Telvoice</text>
+    <text x="166" y="35" fill="#0052CC" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">AI</text>
   </g>
   <text x="70" y="228" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">Implementamos</text>
   <text x="70" y="315" fill="url(#headline)" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">inteligencia artificial</text>
@@ -42,8 +42,6 @@
   <g>
     <circle cx="975" cy="320" r="154" fill="#2C5FFF" fill-opacity=".08"/>
     <circle cx="975" cy="320" r="142" fill="none" stroke="url(#ring)" stroke-width="8"/>
-    <circle cx="975" cy="320" r="112" fill="none" stroke="#78E5FF" stroke-opacity=".24" stroke-width="2" stroke-dasharray="5 12"/>
-    <circle cx="975" cy="178" r="7" fill="#68E8FF"/>
-    <text x="917" y="348" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-5">AI</text>
+    <text x="917" y="348" fill="#0052CC" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-5">AI</text>
   </g>
 </svg>
