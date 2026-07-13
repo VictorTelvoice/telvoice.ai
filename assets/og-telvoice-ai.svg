@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Telvoice AI</title>
+  <desc id="desc">Inteligencia artificial implementada en tu empresa</desc>
+  <defs>
+    <radialGradient id="bg1" cx="0" cy="0" r="1" gradientTransform="translate(1000 120) rotate(132) scale(520 420)">
+      <stop stop-color="#4B5CFF" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#4B5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bg2" cx="0" cy="0" r="1" gradientTransform="translate(170 560) rotate(-35) scale(470 340)">
+      <stop stop-color="#20B9FF" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#20B9FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="850" y1="170" x2="1110" y2="465" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4BE8FF"/>
+      <stop offset=".5" stop-color="#347BFF"/>
+      <stop offset="1" stop-color="#A05CFF"/>
+    </linearGradient>
+    <linearGradient id="headline" x1="70" y1="230" x2="700" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset=".52" stop-color="#73E3FF"/>
+      <stop offset="1" stop-color="#7C78FF"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#8AA8FF" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#050915"/>
+  <rect width="1200" height="630" fill="url(#bg1)"/>
+  <rect width="1200" height="630" fill="url(#bg2)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <g transform="translate(70 48)">
+    <circle cx="26" cy="26" r="18" fill="none" stroke="url(#ring)" stroke-width="4"/>
+    <circle cx="26" cy="8" r="2.5" fill="#67E7FF"/>
+    <text x="58" y="35" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Telvoice AI</text>
+  </g>
+  <text x="70" y="228" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">Implementamos</text>
+  <text x="70" y="315" fill="url(#headline)" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">inteligencia artificial</text>
+  <text x="70" y="402" fill="#788CFF" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">en tu empresa</text>
+  <text x="75" y="482" fill="#C2CDE6" font-family="Inter, Arial, sans-serif" font-size="30">Agentes IA, automatización e integraciones</text>
+  <text x="75" y="522" fill="#8FA0C2" font-family="Inter, Arial, sans-serif" font-size="27">para empresas de Latinoamérica.</text>
+  <rect x="70" y="570" width="510" height="7" rx="3.5" fill="#42D7FF" fill-opacity=".78"/>
+  <g>
+    <circle cx="975" cy="320" r="154" fill="#2C5FFF" fill-opacity=".08"/>
+    <circle cx="975" cy="320" r="142" fill="none" stroke="url(#ring)" stroke-width="8"/>
+    <circle cx="975" cy="320" r="112" fill="none" stroke="#78E5FF" stroke-opacity=".24" stroke-width="2" stroke-dasharray="5 12"/>
+    <circle cx="975" cy="178" r="7" fill="#68E8FF"/>
+    <text x="917" y="348" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-5">AI</text>
+  </g>
+</svg>
