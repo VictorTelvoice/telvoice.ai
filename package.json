@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node tests/validate.mjs",
+    "build": "node tests/validate.mjs && node scripts/build.mjs",
     "test": "node tests/validate.mjs"
   },
   "engines": {
