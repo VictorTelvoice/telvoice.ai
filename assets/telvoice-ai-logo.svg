@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 52" role="img" aria-labelledby="title desc">
   <title id="title">Telvoice AI</title>
-  <desc id="desc">Logotipo Telvoice AI con isotipo animado y tipografía ligera; AI en celeste</desc>
+  <desc id="desc">Logotipo Telvoice AI con isotipo animado y tipografía ligera; AI en celeste original</desc>
   <defs>
     <linearGradient id="ring" x1="8" y1="8" x2="44" y2="44" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#45E7FF"><animate attributeName="stop-color" values="#45E7FF;#347BFF;#A05CFF;#45E7FF" dur="8s" repeatCount="indefinite"/></stop>
@@ -13,7 +13,7 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <filter id="aiGlow" x="-35%" y="-40%" width="170%" height="180%">
-      <feDropShadow dx="0" dy="0" stdDeviation="1.5" flood-color="#45E7FF" flood-opacity=".28"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="1.5" flood-color="#68E8FF" flood-opacity=".28"/>
     </filter>
   </defs>
   <circle cx="26" cy="26" r="18" fill="none" stroke="url(#ring)" stroke-width="4" opacity=".45" filter="url(#ringGlow)">
@@ -21,5 +21,5 @@
   </circle>
   <circle cx="26" cy="26" r="18" fill="none" stroke="url(#ring)" stroke-width="3.8"/>
   <text x="56" y="35" fill="#F7FAFF" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="-.55">Telvoice</text>
-  <text x="157" y="35" fill="#45E7FF" filter="url(#aiGlow)" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="-.55">AI</text>
+  <text x="157" y="35" fill="#68E8FF" filter="url(#aiGlow)" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="-.55">AI</text>
 </svg>
